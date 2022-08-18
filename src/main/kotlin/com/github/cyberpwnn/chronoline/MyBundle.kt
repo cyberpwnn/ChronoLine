@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.cyberpwnn.chronoline
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cyberpwnn.chronoline.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cyberpwnn.chronoline.MyBundle
 
 class MyApplicationService {
 
